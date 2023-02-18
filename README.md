@@ -22,9 +22,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 
 
-## Authors
-
-Contributors names and contact info
+## Author
 
 ex. Heather Robson 
 ex. hrobson1192@gmail.com
