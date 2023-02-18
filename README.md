@@ -10,9 +10,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Dependencies
 
-*HTML
-*Javascript
-*Leaflet
+* HTML
+* Javascript
+* Leaflet
 
 
 ### Executing program
