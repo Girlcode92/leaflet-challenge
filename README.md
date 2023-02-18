@@ -18,8 +18,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ### Executing program
 ![Screen Shot 2023-02-18 at 1 10 27 PM](https://user-images.githubusercontent.com/113534331/219884366-7d3fb3f9-6788-4960-a0ba-d5e74f50fb50.png)
 
-```
-
 
 
 ## Author
